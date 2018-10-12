@@ -2,7 +2,7 @@
 
 #![deny(missing_docs)]
 #![deny(warnings)]
-#![feature(proc_macro_gen)]
+#![feature(proc_macro_hygiene)]
 #![feature(proc_macro_diagnostic)]
 #![feature(try_from)]
 
